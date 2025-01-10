@@ -1,0 +1,4 @@
+average_book/__pycache__/
+average_book/*.csv
+!indian_states.csv
+average_book/*.log
